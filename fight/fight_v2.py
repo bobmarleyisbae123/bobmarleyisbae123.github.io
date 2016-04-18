@@ -9,6 +9,9 @@ Created by Me. *
 * Name has been witheld, in case the IT Techs see this.
     Hi, IT Techs. How's life?
     I'm good, thanks for asking!
+
+Whitespace not intentional, and is a result of remotely downloading this script.
+But it makes the script look a whole lot better client-side!
 """
 
 
